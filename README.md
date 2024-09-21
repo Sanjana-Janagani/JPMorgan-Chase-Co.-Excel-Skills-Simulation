@@ -6,7 +6,7 @@ Common shortcuts to know include the following.
 
 **Spreadsheet actions and movement:**
 
-Save: Ctrl-S < br / >
+Save: Ctrl-S
 Print: Ctrl-P
 Undo: Ctrl-Z
 Redo: Ctrl-Y
