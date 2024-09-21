@@ -1,12 +1,12 @@
 # JPMorgan-Chase-Co.-Excel-Skills-Simulation
 
-TASK 1 :
+**TASK 1 :**
 The task is to learn some key Excel shortcuts, practice them in Excel.
 Common shortcuts to know include the following.
 
-Spreadsheet actions and movement:
+**Spreadsheet actions and movement:**
 
-Save: Ctrl-S
+Save: Ctrl-S < br / >
 Print: Ctrl-P
 Undo: Ctrl-Z
 Redo: Ctrl-Y
@@ -15,14 +15,14 @@ Jump to Top of Data: Ctrl-Up Arrow
 Go to Previous Sheet: Ctrl-Page Up
 Go to Next Sheet: Ctrl-Page Down
 
-Data selection:
+**Data selection:**
 
 Select All Data in Column: Ctrl-Shift-Down Arrow 
 Select Whole Column: Ctrl-Space
 Select All Data in Row: Shift-Space
 Select All Data in Region: Ctrl-A
 
-Data Editing:
+**Data Editing:**
 
 Filter: Ctrl-Shift-L
 Find: Ctrl-F
@@ -36,7 +36,7 @@ Sort Z-A: Alt-A-S-D
 Delete Row: Ctrl-minus
 Copy Selected Object or Data: Ctrl-D
 
-Data Formatting:
+**Data Formatting:**
 
 Format Cells: Ctrl-1
 Create Data Table: Ctrl-T
@@ -44,7 +44,7 @@ Autoformat Data Tables: Alt-O-A
 Format As Currency: Ctrl-Shift-4
 Format As 2 Decimal Place Number: Ctrl-Shift-1
 
-TASK 2 :
+**TASK 2 :**
 
 The task is to use the conditional formatting tools to do the following explorations of the data:
 
@@ -54,18 +54,18 @@ The task is to use the conditional formatting tools to do the following explorat
 4. Identify accounts that have a 5-year sales CAGR of at least 100% by highlighting the appropriate CAGR cells in green and any accounts with a negative CAGR in red with white text.
 5. Identify accounts in the top 10% of unit sales for 2021 by highlighting the appropriate 2021 unit sales cells in blue.
 
-TASK 3 :
+**TASK 3 :**
 
 Create two macros and associated buttons:
 
 1. A macro to sort the entire spreadsheet by 5 YR CAGR in descending order to see which accounts have the highest overall 5-year sales growth
 2. A macro to sort the entire spreadsheet by 2021 unit sales in descending order to see which accounts have the highest overall unit sales in 2021
 
-TASK 4 :
+**TASK 4 :**
 
 Create a simple dashboard using the account sales dataset.
 
-TASK 5 :
+**TASK 5 :**
 
 To write a short PowerPoint presentation to communicate key insights and data from your analysis and visualization work in the prior task.
    
